@@ -45,7 +45,7 @@ Nodejs_Layer1_Todo_Project/
 1. Clone the repo:
 
    ```bash
-   git clone <your-github-url>
+   git clone <https://github.com/Alexintw>
    cd Nodejs_Layer1_Todo_Project
    ```
 2. Install dependencies:
